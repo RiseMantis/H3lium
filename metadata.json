@@ -1,0 +1,6 @@
+{
+  "name": "H3lium AI Agent Security Console",
+  "description": "Deterministic security console that detects when autonomous AI agents deviate from declared roles and responds with minimal containment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
